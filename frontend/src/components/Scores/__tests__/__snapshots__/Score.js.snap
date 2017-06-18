@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Score /> should render with default props 1`] = `
+<div
+  className="score "
+>
+  <span
+    className="round"
+  />
+  <div
+    className="score-body "
+  >
+    <div
+      className="currentScore"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Bowling /> should render with default props 1`] = `
+<Grid
+  bsClass="container"
+  componentClass="div"
+  fluid={false}
+>
+  <Row
+    bsClass="row"
+    className="bowling"
+    componentClass="div"
+  >
+    <scores
+      scores={Array []}
+    />
+    <Col
+      bsClass="col"
+      componentClass="div"
+      sm={4}
+      smOffset={4}
+    >
+      <ScoreForm
+        addScore={[Function]}
+        round={Object {}}
+      />
+    </Col>
+  </Row>
+</Grid>
+`;

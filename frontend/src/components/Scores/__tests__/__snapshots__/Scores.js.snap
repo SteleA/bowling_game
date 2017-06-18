@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Scores /> should render with default props 1`] = `
+<Row
+  bsClass="row"
+  className="scores"
+  componentClass="div"
+/>
+`;

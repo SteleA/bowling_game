@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ScoreInput /> should render with default props 1`] = `
+<FormGroup
+  bsClass="form-group"
+>
+  <FormControl
+    bsClass="form-control"
+    componentClass="input"
+    onChange={[Function]}
+    type="number"
+  />
+</FormGroup>
+`;
